@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mbuso</h1>
-<h3 align="center">A self-taught Full-Stack Developer from South Africa.</h3>
+<h3 align="center">A self-taught Front-End Developer from South Africa.</h3>
 
 I'm currently working on my skills-building projects using HTML, JS and CSS. Working on frameworks for backend development, such as Ruby and React for the front-end side. I am interested in building a career within the web development industry and am enthusiastic about gaining new skills within a work team environment.
 
